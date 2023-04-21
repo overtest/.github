@@ -21,4 +21,4 @@
 - **[<img src="https://cloudy-purple-echidna.faviconkit.com/gitbook.com/50" width="14px"/> GitBook](https://www.gitbook.com/)** - simple but superpowerful git-based documentation hosting that powers our project's documentation website for free as a part of the company's open source support program.
 - **[<img src="https://cloudy-purple-echidna.faviconkit.com/supremeorder.rocks/50" width="14px"/> NGO "Supreme Order"](https://supremeorder.rocks/)** - a non-profit organization co-founded by Yurii Kadirov, author of Overtest.
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
