@@ -1,12 +1,12 @@
 [<div align='center'><img src='profile/icon.png' alt='Overtest'/></div>](https://overtest.sirkadirov.com/)
 
-# <div align='center'>Meet, Overtest 🚀</div>
+<h1 align='center'>Meet, Overtest 🚀</h1>
 
-<div align='center'>
+<h3 align='center'>
     <a href="https://facebook.com/groups/overtest"><img src="https://img.shields.io/static/v1?label=Facebook&message=Group&color=3b5998&style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook Group"></a>
     <a href="https://github.com/orgs/overtest/discussions"><img src="https://img.shields.io/static/v1?label=GitHub&message=Discussions&color=171515&style=for-the-badge&logo=github&logoColor=ffffff"></a>
     <a href="https://t.me/overtest_lms"><img src="https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc&style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram chat"></a>
-</div>
+</h3>
 
 **[Overtest](https://overtest.sirkadirov.com/)** is an online judging system for holding programming competitions and long-term educational processes in schools and universities, where students learn programming. It has a simple and adaptive web interface, allowing users to practice algorithmization and programming on the go. Overtest is very tiny, secure, and scalable. It doesn't take too many system resources, can run in a VM or container, uses Linux Containers (`LXC / LXD`), Secure Computing (`seccomp`) and other system APIs to protect your hardware from potential threats (or misuse by your students 😅).
 
