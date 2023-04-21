@@ -1,4 +1,4 @@
-<div align='center'><img src='icon.png' alt='Overtest'/></div>
+<div align='center'><img src='profile/icon.png' alt='Overtest'/></div>
 
 # <div align='center'>Meet, Overtest 🚀</div>
 **[Overtest](https://overtest.sirkadirov.com/)** is an online judging system for holding programming competitions and long-term educational processes in schools and universities, where students learn programming. It has a simple and adaptive web interface, allowing users to practice algorithmization and programming on the go. Overtest is very tiny, secure, and scalable. It doesn't take too many system resources, can run in a VM or container, uses Linux Containers (`LXC / LXD`), Secure Computing (`seccomp`) and other system APIs to protect your hardware from potential threats (or misuse by your students 😅).
