@@ -1,4 +1,4 @@
-[<div align='center'><img src='profile/icon.png' alt='Overtest'/></div>](https://overtest.sirkadirov.com/)
+<div align='center'><img src='https://github.com/overtest/.github/raw/main/profile/icon.png' alt='Overtest'/></div>
 
 <h1 align='center'>Meet, Overtest 🚀</h1>
 
@@ -8,9 +8,9 @@
     <a href="https://t.me/overtest_lms"><img src="https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc&style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram chat"></a>
 </h3>
 
-**[Overtest](https://overtest.sirkadirov.com/)** is an online judging system for holding programming competitions and long-term educational processes in schools and universities, where students learn programming. It has a simple and adaptive web interface, allowing users to practice algorithmization and programming on the go. Overtest is very tiny, secure, and scalable. It doesn't take too many system resources, can run in a VM or container, uses Linux Containers (`LXD` on the top of `LXC`), Secure Computing (`seccomp`) and other system APIs to protect your hardware from potential threats (or misuse by your students 😅). **Give this project a try!**
+**[Overtest](https://overtest.sirkadirov.com/)** is an online judging system for holding programming competitions and long-term educational processes in schools and universities, where students learn programming. It has a simple and adaptive web interface, allowing users to practice algorithmization and programming on the go. Overtest is very tiny, secure, and scalable. It doesn't take too many system resources, can run in a VM or container, uses Linux Containers (`LXD` on the top of `LXC`), Secure Computing (`seccomp`) and other system APIs to protect your hardware from potential threats (or misuse by some of your students 😅). **Give this project a try!**
 
-![Overtest Web Application Screenshot](https://user-images.githubusercontent.com/7001431/143770658-11d813ec-c3b9-4c40-a4ba-a2fca053a084.png)
+![Overtest Web Application Screenshot](https://github.com/overtest/.github/raw/main/profile/screenshot.jpg)
 
 ## Our sponsors, donors, and partners
 
@@ -20,5 +20,7 @@
 - **[<img src="https://advancedinstaller.com/favicon.ico" width="14px"/> Advanced Installer](https://advancedinstaller.com/)** - is an easy software to build product installers for the Microsoft Windows platform. Its developer, Caphyon, gives us a free license for the development of our open source project.
 - **[<img src="https://cloudy-purple-echidna.faviconkit.com/gitbook.com/50" width="14px"/> GitBook](https://www.gitbook.com/)** - simple but superpowerful git-based documentation hosting that powers our project's documentation website for free as a part of the company's open source support program.
 - **[<img src="https://cloudy-purple-echidna.faviconkit.com/supremeorder.rocks/50" width="14px"/> NGO "Supreme Order"](https://supremeorder.rocks/)** - a non-profit organization co-founded by Yurii Kadirov, author of Overtest.
+
+## Help us defend our country and our lives
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
