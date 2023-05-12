@@ -1,6 +1,6 @@
 <div align='center'><img src='https://github.com/overtest/.github/raw/main/profile/icon.png' alt='Overtest'/></div>
 
-<h1 align='center'>Meet, Overtest 🚀</h1>
+<h1 align='center'>Meet, Overtest :rocket:</h1>
 
 <h3 align='center'>
     <a href="https://facebook.com/groups/overtest"><img src="https://img.shields.io/static/v1?label=Facebook&message=Group&color=3b5998&style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook Group"></a>
@@ -12,7 +12,14 @@
 
 ![Overtest Web Application Screenshot](https://github.com/overtest/.github/raw/main/profile/screenshot.jpg)
 
-## Our sponsors, donors, and partners
+## :octopus: Repositories in this organization
+
+- [**`overtest`**](https://github.com/overtest/overtest) - main repository containing source code of Overtest LMS and its basic components
+- [**`limtrac`**](https://github.com/overtest/limtrac) - CLI programs sandboxing Rust & C-compatible library with resource limiting features
+- [**`overtest-agent`**](https://github.com/overtest/overtest-agent) - a simple CLI application that utilizes all power of `limtrac` in LXC containers
+- [**`overtest-task-generator`**](https://github.com/overtest/overtest-task-generator) - create new and edit existing programming tasks for Overtest LMS
+
+## :doughnut: Our sponsors, donors, and partners
 
 - **[<img src="https://jetbrains.com/favicon.ico" width="14px"/> JetBrains](https://jetbrains.com/)** - they develop enterprise-grade IDEs and tools for many popular programming languages and technologies. We use their software for free, thanks to their open source initiatives support program.
 - **[<img src="https://cloudy-purple-echidna.faviconkit.com/digitalocean.com/50" width="14px"/> DigitalOcean](https://digitalocean.com/)** - is a powerful cloud computing platform for developers. They provide us with platform credits for free, giving us a chance to test our open source product on "real steel".
@@ -21,6 +28,6 @@
 - **[<img src="https://cloudy-purple-echidna.faviconkit.com/gitbook.com/50" width="14px"/> GitBook](https://www.gitbook.com/)** - simple but superpowerful git-based documentation hosting that powers our project's documentation website for free as a part of the company's open source support program.
 - **[<img src="https://cloudy-purple-echidna.faviconkit.com/supremeorder.rocks/50" width="14px"/> NGO "Supreme Order"](https://supremeorder.rocks/)** - a non-profit organization co-founded by Yurii Kadirov, author of Overtest.
 
-## Help us defend our country and our lives
+## :broken_heart: Help us defend our country and our lives
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
