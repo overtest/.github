@@ -3,21 +3,14 @@
 <h1 align='center'>Meet, Overtest :rocket:</h1>
 
 <h3 align='center'>
-    <a href="https://facebook.com/groups/overtest"><img src="https://img.shields.io/static/v1?label=Facebook&message=Group&color=3b5998&style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook Group"></a>
-    <a href="https://github.com/orgs/overtest/discussions"><img src="https://img.shields.io/static/v1?label=GitHub&message=Discussions&color=171515&style=for-the-badge&logo=github&logoColor=ffffff"></a>
-    <a href="https://t.me/overtest_lms"><img src="https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc&style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram chat"></a>
+    <a href="https://facebook.com/groups/overtest"><img src="https://img.shields.io/static/v1?label=Facebook&message=Group&color=3b5998&logo=facebook&logoColor=ffffff" alt="Facebook Group"></a>
+    <a href="https://github.com/orgs/overtest/discussions"><img src="https://img.shields.io/static/v1?label=GitHub&message=Discussions&color=171515&logo=github&logoColor=ffffff"></a>
+    <a href="https://t.me/overtest_lms"><img src="https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc&logo=telegram&logoColor=ffffff" alt="Telegram chat"></a>
 </h3>
 
 **[Overtest](https://overtest.sirkadirov.com/)** is an online judging system for holding programming competitions and long-term educational processes in schools and universities, where students learn programming. It has a simple and adaptive web interface, allowing users to practice algorithmization and programming on the go. Overtest is very tiny, secure, and scalable. It doesn't take too many system resources, can run in a VM or container, uses Linux Containers (`LXD` on the top of `LXC`), Secure Computing (`seccomp`) and other system APIs to protect your hardware from potential threats (or misuse by some of your students 😅). **Give this project a try!**
 
 ![Overtest Web Application Screenshot](https://github.com/overtest/.github/raw/main/profile/screenshot.jpg)
-
-## :octopus: Repositories in this organization
-
-- [**`overtest`**](https://github.com/overtest/overtest) - main repository containing source code of Overtest LMS and its basic components
-- [**`limtrac`**](https://github.com/overtest/limtrac) - CLI programs sandboxing Rust & C-compatible library with resource limiting features
-- [**`overtest-agent`**](https://github.com/overtest/overtest-agent) - a simple CLI application that utilizes all power of `limtrac` in LXC containers
-- [**`overtest-task-generator`**](https://github.com/overtest/overtest-task-generator) - create new and edit existing programming tasks for Overtest LMS
 
 ## :doughnut: Our sponsors, donors, and partners
 
